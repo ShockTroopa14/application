@@ -1,0 +1,180 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cleese Assignment (For Teachers)
+% LaTeX Template
+% Version 2.0 (27/5/2018)
+%
+% This template originates from:
+% http://www.LaTeXTemplates.com
+%
+% Author:
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt]{article}
+
+\input% Include the file specifying the document structure and custom commands
+
+%----------------------------------------------------------------------------------------
+%	ASSIGNMENT INFORMATION
+%----------------------------------------------------------------------------------------
+
+% Required
+\newcommand{\assignmentQuestionName}{Question} % The word to be used as a prefix to question numbers; example alternatives: Problem, Exercise
+\newcommand{\assignmentClass}{BIO101} % Course/class
+\newcommand{\assignmentTitle}{Assignment\ \#1} % Assignment title or name
+
+% Optional (comment lines to remove)
+\newcommand{\assignmentClassInstructor}{Jones 10:30am} % Intructor name/time/description
+\newcommand{\assignmentDueDate}{Monday,\ January\ 24,\ 2019} % Due date
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+
+\assignmentSection{Animals}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 1
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+
+\questiontext{What is the airspeed velocity of an unladen swallow?}
+
+\begin{center}
+	\includegraphics[width=0.5\columnwidth]{swallow.jpg} % Example image
+\end{center}
+
+\answerbox{10} % Box with the number of lines to allow for a student's answer
+
+\end{question}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 2
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+
+\questiontext{How much wood would a woodchuck chuck if a woodchuck could chuck wood?}
+
+%--------------------------------------------
+
+\begin{subquestion}{Suppose ``chuck" implies throwing.} % Subquestion within question
+
+\answerbox{4} % Box with the number of lines to allow for a student's answer
+
+\end{subquestion}
+
+%--------------------------------------------
+
+\begin{subquestion}{Suppose ``chuck" implies vomiting.} % Subquestion within question
+
+\answerbox{4} % Box with the number of lines to allow for a student's answer
+
+\end{subquestion}
+
+%--------------------------------------------
+
+\end{question}
+
+%----------------------------------------------------------------------------------------
+
+\assignmentSection{Statistics}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 3
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+
+\questiontext{Identify the author of Equation \ref{eq:bayes} below and briefly describe it in English.}
+
+\begin{equation}\label{eq:bayes}
+	P(A|B) = \frac{P(B|A)P(A)}{P(B)}
+\end{equation}
+
+\answerbox{5} % Box with the number of lines to allow for a student's answer
+
+\end{question}
+
+%----------------------------------------------------------------------------------------
+
+\assignmentSection{Bonus Questions}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 4
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+
+\questiontext{The table below shows the nutritional consistencies of two sausage types. Explain their relative differences given what you know about daily adult nutritional recommendations.}
+
+\begin{table}[h]
+	\centering % Centre the table
+	\begin{tabular}{l l l}
+		\toprule
+		\textit{Per 50g} & Pork & Soy \\
+		\midrule
+		Energy & 760kJ & 538kJ\\
+		Protein & 7.0g & 9.3g\\
+		Carbohydrate & 0.0g & 4.9g\\
+		Fat & 16.8g & 9.1g\\
+		Sodium & 0.4g & 0.4g\\
+		Fibre & 0.0g & 1.4g\\
+		\bottomrule
+	\end{tabular}
+\end{table}
+
+\answerbox{10} % Box with the number of lines to allow for a student's answer
+
+\end{question}
+
+%----------------------------------------------------------------------------------------
+%	QUESTION 5
+%----------------------------------------------------------------------------------------
+
+\begin{question}
+
+\lstinputlisting[
+	caption=Luftballons Perl Script, % Caption above the listing
+	label=lst:luftballons, % Label for referencing this listing
+	language=Perl, % Use Perl functions/syntax highlighting
+	frame=single, % Frame around the code listing
+	showstringspaces=false, % Don't put marks in string spaces
+	numbers=left, % Line numbers on left
+	numberstyle=\tiny, % Line numbers styling
+	]{luftballons.pl}
+
+%--------------------------------------------
+
+\begin{subquestion}{How many luftballons will be output by the Listing \ref{lst:luftballons} above?} % Subquestion within question
+
+\answerbox{1} % Box with the number of lines to allow for a student's answer
+
+\end{subquestion}
+
+%--------------------------------------------
+
+\begin{subquestion}{Identify the regular expression in Listing \ref{lst:luftballons} and explain how it relates to the anti-war sentiments found in the rest of the script.} % Subquestion within question
+
+\answerbox{5} % Box with the number of lines to allow for a student's answer
+
+\end{subquestion}
+
+%--------------------------------------------
+
+\end{question}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

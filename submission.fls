@@ -1,0 +1,64 @@
+PWD c:\Users\Alex Green\Desktop\shopify
+INPUT C:\Users\Alex Green\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Alex Green\Desktop\shopify\submission.tex
+OUTPUT submission.log
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\tools\.tex
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\submission.aux
+INPUT submission.aux
+INPUT submission.aux
+OUTPUT submission.aux
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+OUTPUT submission.pdf
+INPUT C:\Users\Alex Green\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT submission.aux
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx6.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx6.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Alex Green\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
